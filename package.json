@@ -1,0 +1,17 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "jest": "jest",
+    "vitest": "vitest --globals"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "vitest": "^0.29.2"
+  }
+}
